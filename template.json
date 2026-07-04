@@ -5,5 +5,6 @@
   "websiteUrl": "https://klar-templates.github.io/klar-brewed-awakening/",
   "author": "Klar",
   "category": "services",
-  "description": "Brewed Awakening is a fully responsive, single-page artisan café website template built with vanilla HTML, CSS, and JavaScript. It features a warm, coffee-inspired design with glassmorphism cards, animated background blobs, a light/dark theme toggle powered by CSS custom properties, a filterable menu grid, masonry gallery, testimonial cards, a validated contact form, and scroll-reveal animations — all with zero frameworks or build tools."
+  "description": "Brewed Awakening is a fully responsive, single-page artisan café website template built with vanilla HTML, CSS, and JavaScript. It features a warm, coffee-inspired design with glassmorphism cards, animated background blobs, a light/dark theme toggle powered by CSS custom properties, a filterable menu grid, masonry gallery, testimonial cards, a validated contact form, and scroll-reveal animations — all with zero frameworks or build tools.",
+  "posterUrl": "https://cdn.jsdelivr.net/gh/klar-templates/klar-brewed-awakening/images/https-klar-templates.github.io-klar-brewed-awakening-.png"
 }
